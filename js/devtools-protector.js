@@ -22,7 +22,7 @@
         if (downloadLink) {
             downloadLink.addEventListener('click', function(e) {
                 e.preventDefault();
-                window.location.href = 'https://www.dropbox.com/scl/fi/jqydq6e45swne5gw55oux/ResoniteModsGame.zip?rlkey=2exc3hrmtk2wz45dhbwwcqhv6&st=w5ynkf8f&dl=1';
+                window.location.href = 'https://www.dropbox.com/scl/fi/36nh27qpserq4jpjtddy9/ResoniteGameMods.zip?rlkey=j6dxvo31dgaahk9u9xrs3gtqa&st=rvxevubn&dl=1';
             });
         }
     });
