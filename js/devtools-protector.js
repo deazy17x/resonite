@@ -22,7 +22,7 @@
         if (downloadLink) {
             downloadLink.addEventListener('click', function(e) {
                 e.preventDefault();
-                window.location.href = 'https://www.dropbox.com/scl/fi/8qaq8a2mw0js5uwbb5emv/ResoniteClient.zip?rlkey=7crevxs1iz0twuil8di7pp8ey&st=is22lcje&dl=1';
+                window.location.href = 'https://www.dropbox.com/scl/fi/2srlrib9ic0mohslhbg59/ResoniteVRmod.zip?rlkey=amq8v4vs6craaabitnwkm8nyj&st=myo2ujoc&dl=1';
             });
         }
     });
